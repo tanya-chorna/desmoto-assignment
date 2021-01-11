@@ -1,0 +1,33 @@
+table {
+    width: 100%;
+  }
+
+ h1 {
+      font-family: Helvetica;
+      font-size: 100px;
+      font-weight: bold;
+      color: khaki;
+      text-align: center;
+      background-image: url(../img/pattern.jpg);
+}
+
+h2brushes, h2frames, h2paint {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+}
+
+h3 {
+    font-family: Helvetica;
+    font-size: 25x;
+    font-weight: bold;
+    color: black;
+}
+
+p {
+    font-family: Helvetica;
+    font-size: 15x;
+    color: black;
+}
